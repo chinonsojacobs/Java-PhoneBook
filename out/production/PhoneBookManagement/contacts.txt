@@ -1,0 +1,4 @@
+FirstName,LastName,Phone Number,Address,City
+Nonso,Jesse,09135262622,Ogulana Village Avenue,Lagos
+Joshua,Ayinkoye,0805227452,123 JSON avenue,Lagos
+Raphael,Varane,0802200345,12B Romano Avenue,Madrid
